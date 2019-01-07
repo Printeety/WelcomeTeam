@@ -5,5 +5,13 @@
 
 ## Research and Development Team
 
+### Rules
+
+  1. No Rules!
+  2. Enjoy!
+  3. Code as much as you can. 
+  4. Side projects are very welcome. 
+  
+ 
 
 
